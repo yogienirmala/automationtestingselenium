@@ -33,8 +33,8 @@ class DemoblazeTest(unittest.TestCase):
 
         # input username dan password
 
-        # driver.find_element(by=By.ID, value="sign-username").send_keys("testinguser")
-        # driver.find_element(by=By.ID, value="sign-password").send_keys("password")
+        # driver.find_element(by=By.ID, value="sign-username").send_keys("testingyogie")
+        # driver.find_element(by=By.ID, value="sign-password").send_keys("password123")
         # button_signup = driver.find_element(by=By.XPATH, value="/html/body/div[2]/div/div/div[3]/button[2]")
         # button_signup.click()
 
