@@ -42,5 +42,5 @@ def test_login(uname, pwd):
     # mengambil text "Welcome (nama user)" > berhasil login
     Nameuser = driver.find_element(by=By.ID, value="nameofuser").text
 
-    # melakukan assert apakah benar user telah berhasil login
+    # melakukan assert untuk memastikan user telah berhasil login
     assert Nameuser == "Welcome yogietesting"

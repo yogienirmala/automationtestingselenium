@@ -4,6 +4,7 @@ import pytest
 driver = webdriver.Firefox()
 driver.maximize_window()
 
+#parameter yang digunakan alamat website
 Alamat = [
     ("https://www.google.com", "Google"),
     ("https://demoblaze.com", "STORE")
