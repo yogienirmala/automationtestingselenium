@@ -24,3 +24,279 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demoblaze.com."
 1678347922995	Marionette	INFO	Stopped listening on port 53002
 Dynamically enable window occlusion 1
+1678424245583	geckodriver	INFO	Listening on 127.0.0.1:58052
+1678424248684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilec1E4mh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678424252937	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678424252969	Marionette	INFO	Listening on port 58061
+Read port: 58061
+WebDriver BiDi listening on ws://127.0.0.1:58053
+1678424254559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilec1E4mh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58053/devtools/browser/9a43d3f4-676a-4990-9665-29a6071ec5c9
+1678424553640	Marionette	INFO	Stopped listening on port 58061
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58125" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileFJOi4R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678424506767	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678424506772	Marionette	INFO	Listening on port 58132
+Read port: 58132
+WebDriver BiDi listening on ws://127.0.0.1:58125
+1678424508101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileFJOi4R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58125/devtools/browser/64e83286-5911-45e8-b3a3-06314d512bf9
+1678426036858	Marionette	INFO	Stopped listening on port 58132
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58184" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilemGFABZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678424599304	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678424599311	Marionette	INFO	Listening on port 58205
+Read port: 58205
+WebDriver BiDi listening on ws://127.0.0.1:58184
+1678424601409	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilemGFABZ\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:58185/devtools/browser/7e5a912c-8d64-4b6f-8b5e-073073747a64
+1678427649110	Marionette	INFO	Stopped listening on port 58205
+Dynamically enable window occlusion 1
+1678428624023	geckodriver	INFO	Listening on 127.0.0.1:59313
+1678428627424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59314" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileUdnVP9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678428638557	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678428638649	Marionette	INFO	Listening on port 59322
+Read port: 59322
+WebDriver BiDi listening on ws://127.0.0.1:59314
+Read port: 59322
+1678428643297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileUdnVP9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59314/devtools/browser/195ce685-ef01-4452-8a35-a7eaf4ed7f9b
+1678428692601	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1678428746302	Marionette	INFO	Stopped listening on port 59322
+Dynamically enable window occlusion 1
+1678428856830	geckodriver	INFO	Listening on 127.0.0.1:59403
+1678428862284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59404" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilezfSofc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678428868236	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678428868373	Marionette	INFO	Listening on port 59416
+Read port: 59416
+WebDriver BiDi listening on ws://127.0.0.1:59404
+Read port: 59416
+1678428873891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilezfSofc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59404/devtools/browser/abc877b8-a401-41e4-9d72-f6b8e8abc050
+1678428903876	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1678429078918	Marionette	INFO	Stopped listening on port 59416
+Dynamically enable window occlusion 1
+1678429122372	geckodriver	INFO	Listening on 127.0.0.1:59483
+1678429126861	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59484" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile86kjpC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678429132633	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678429132641	Marionette	INFO	Listening on port 59492
+Read port: 59492
+WebDriver BiDi listening on ws://127.0.0.1:59484
+1678429134293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile86kjpC\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:59484/devtools/browser/2f412a12-94c9-4747-9792-8a3a55a46d34
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1181: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1678432343992	Marionette	INFO	Stopped listening on port 59492
+Dynamically enable window occlusion 1
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written","state":{"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"sessionstore-final-state-write-complete":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true},"filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":174,"stack":["resource://gre/modules/CrashMonitor.jsm:init:174","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]}] Barrier: IOUtils: waiting for profileBeforeChange IO to complete
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"PlacesUtils read-only connection closing as part of Places shutdown","state":"1. Service has initiated shutdown","filename":"resource://gre/modules/PlacesUtils.sys.mjs","lineNumber":2094,"stack":["resource://gre/modules/PlacesUtils.sys.mjs:setupDbForShutdown/promiseClosed<:2094","resource://gre/modules/PlacesUtils.sys.mjs:setupDbForShutdown:2089","resource://gre/modules/PlacesUtils.sys.mjs:null:2139"]}] Barrier: Places Connection shutdown
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"PlacesUtils read-only connection must be closed before Sqlite.sys.mjs","state":"1. Service has initiated shutdown","filename":"resource://gre/modules/PlacesUtils.sys.mjs","lineNumber":2121,"stack":["resource://gre/modules/PlacesUtils.sys.mjs:setupDbForShutdown:2121","resource://gre/modules/PlacesUtils.sys.mjs:null:2139"]}] Barrier: Sqlite.sys.mjs: wait until all clients have completed their task
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"IOUtils Blocker (profile-before-change)","state":"(none)","filename":"/builds/worker/checkouts/gecko/dom/system/IOUtils.cpp","lineNumber":2215,"stack":"IOUtils::EventQueue::SetShutdownHooks"},{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":2,"Barrier: 0":{"name":"PlacesUtils read-only connection closing as part of Places shutdown","state":"1. Service has initiated shutdown","filename":"resource://gre/modules/PlacesUtils.sys.mjs","lineNumber":2094,"stack":["resource://gre/modules/PlacesUtils.sys.mjs:setupDbForShutdown/promiseClosed<:2094","resource://gre/modules/PlacesUtils.sys.mjs:setupDbForShutdown:2089","resource://gre/modules/PlacesUtils.sys.mjs:null:2139"]}},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":470,"stack":""},{"name":"Sqlite.sys.mjs shutdown blocker","state":{"description":"Waiting for the barrier to be lifted","state":[{"name":"PlacesUtils read-only connection must be closed before Sqlite.sys.mjs","state":"1. Service has initiated shutdown","filename":"resource://gre/modules/PlacesUtils.sys.mjs","lineNumber":2121,"stack":["resource://gre/modules/PlacesUtils.sys.mjs:setupDbForShutdown:2121","resource://gre/modules/PlacesUtils.sys.mjs:null:2139"]}]},"filename":"resource://gre/modules/Sqlite.sys.mjs","lineNumber":219,"stack":["resource://gre/modules/Sqlite.sys.mjs:null:219","resource://gre/modules/XPCOMUtils.sys.mjs:get:54","resource://gre/modules/Sqlite.sys.mjs:ConnectionData:339","resource://gre/modules/Sqlite.sys.mjs:OpenedConnection:1443","resource://gre/modules/Sqlite.sys.mjs:openConnection/</<:1218"]}] Barrier: profile-before-change
+1678433196224	geckodriver	INFO	Listening on 127.0.0.1:60068
+1678433215320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile9Tl8iv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678433233098	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678433233536	Marionette	INFO	Listening on port 60090
+Read port: 60090
+Read port: 60090
+WebDriver BiDi listening on ws://127.0.0.1:60069
+1678433275717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile9Tl8iv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60069/devtools/browser/4ae2f345-6a75-4946-8cb1-261c1a0f668a
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.sys.mjs","lineNumber":2177,"stack":["resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_onQuitApplicationGranted:2177","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_observe:1083"]}] Barrier: quit-application-granted
+1678434866973	Marionette	INFO	Stopped listening on port 60090
+Dynamically enable window occlusion 1
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written","state":{"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true},"filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":174,"stack":["resource://gre/modules/CrashMonitor.jsm:init:174","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]},{"name":"SessionFile: Finish writing Session Restore data","state":{"options":{"isFinalWrite":true,"performShutdownCleanup":true},"attempts":7,"successes":6,"failures":0},"filename":"resource:///modules/sessionstore/SessionFile.sys.mjs","lineNumber":417,"stack":["resource:///modules/sessionstore/SessionFile.sys.mjs:write:417","resource:///modules/sessionstore/SessionFile.sys.mjs:write:45","resource:///modules/sessionstore/SessionSaver.sys.mjs:_writeState:350","resource:///modules/sessionstore/SessionSaver.sys.mjs:_saveState:288","resource:///modules/sessionstore/SessionSaver.sys.mjs:run:156","resource:///modules/sessionstore/SessionSaver.sys.mjs:run:71","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_uninit:1055","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_onQuitApplication:2348","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_observe:1089"]}] Barrier: IOUtils: waiting for profileBeforeChange IO to complete
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"IOUtils Blocker (profile-before-change)","state":"(none)","filename":"/builds/worker/checkouts/gecko/dom/system/IOUtils.cpp","lineNumber":2215,"stack":"IOUtils::EventQueue::SetShutdownHooks"},{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":470,"stack":""}] Barrier: profile-before-change
+nit:174","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]},{"name":"SessionFile: Finish writing Session Restore data","state":{"options":{"isFinalWrite":true,"performShutdownCleanup":true},"attempts":8,"successes":7,"failures":0},"filename":"resource:///modules/sessionstore/SessionFile.sys.mjs","lineNumber":417,"stack":["resource:///modules/sessionstore/SessionFile.sys.mjs:write:417","resource:///modules/sessionstore/SessionFile.sys.mjs:write:45","resource:///modules/sessionstore/SessionSaver.sys.mjs:_writeState:350","resource:///modules/sessionstore/SessionSaver.sys.mjs:_saveState:288","resource:///modules/sessionstore/SessionSaver.sys.mjs:run:156","resource:///modules/sessionstore/SessionSaver.sys.mjs:run:71","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_uninit:1055","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_onQuitApplication:2348","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_observe:1089"]}] Barrier: IOUtils: waiting for profileBeforeChange IO to complete
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"IOUtils Blocker (profile-before-change)","state":"(none)","filename":"/builds/worker/checkouts/gecko/dom/system/IOUtils.cpp","lineNumber":2215,"stack":"IOUtils::EventQueue::SetShutdownHooks"},{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":470,"stack":""}] Barrier: profile-before-change
+1678435301117	geckodriver	INFO	Listening on 127.0.0.1:60731
+1678435307724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60732" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileMyYyqG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678435314237	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678435314300	Marionette	INFO	Listening on port 60743
+Read port: 60743
+WebDriver BiDi listening on ws://127.0.0.1:60732
+Read port: 60743
+1678435317657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileMyYyqG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60732/devtools/browser/21a085c0-a5f1-4ad1-bb8e-ff68c636037f
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1181: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.sys.mjs","lineNumber":2177,"stack":["resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_onQuitApplicationGranted:2177","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_observe:1083"]}] Barrier: quit-application-granted
+1678436650027	Marionette	INFO	Stopped listening on port 60743
+Dynamically enable window occlusion 1
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written","state":{"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"sessionstore-final-state-write-complete":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true},"filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":174,"stack":["resource://gre/modules/CrashMonitor.jsm:init:174","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]}] Barrier: IOUtils: waiting for profileBeforeChange IO to complete
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"IOUtils Blocker (profile-before-change)","state":"(none)","filename":"/builds/worker/checkouts/gecko/dom/system/IOUtils.cpp","lineNumber":2215,"stack":"IOUtils::EventQueue::SetShutdownHooks"},{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":470,"stack":""}] Barrier: profile-before-change
+e.sys.mjs:ssi_observe:1083"]}] Barrier: quit-application-granted
+1678436629903	Marionette	INFO	Stopped listening on port 60888
+Dynamically enable window occlusion 1
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":470,"stack":""}] Barrier: profile-before-change
+sion
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilejBX6tG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60990/devtools/browser/e1ecd8a9-de1c-4be6-9ed9-b3a452e90361
+1678436616064	Marionette	INFO	Stopped listening on port 60999
+Dynamically enable window occlusion 1
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":470,"stack":""}] Barrier: profile-before-change
+ttings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678436459421	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678436459428	Marionette	INFO	Listening on port 61211
+WebDriver BiDi listening on ws://127.0.0.1:61203
+Read port: 61211
+1678436463055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileoZa741\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61203/devtools/browser/721d5a54-3095-48c3-9458-ea8623d63df3
+1678436605413	Marionette	INFO	Stopped listening on port 61211
+Dynamically enable window occlusion 1
+[Parent 19224, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":470,"stack":""}] Barrier: profile-before-change
+1678436949839	geckodriver	INFO	Listening on 127.0.0.1:61362
+1678436953070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileSmH9as"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678436956633	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678436956640	Marionette	INFO	Listening on port 61372
+Read port: 61372
+WebDriver BiDi listening on ws://127.0.0.1:61363
+1678436957005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileSmH9as\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:61363/devtools/browser/bb224e0d-d029-46ce-bef0-8f5d9f6ac2eb
+1678437127284	Marionette	INFO	Stopped listening on port 61372
+Dynamically enable window occlusion 1
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written","state":{"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true},"filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":174,"stack":["resource://gre/modules/CrashMonitor.jsm:init:174","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]},{"name":"SessionFile: Finish writing Session Restore data","state":{"options":{"isFinalWrite":true,"performShutdownCleanup":true},"attempts":5,"successes":4,"failures":0},"filename":"resource:///modules/sessionstore/SessionFile.sys.mjs","lineNumber":417,"stack":["resource:///modules/sessionstore/SessionFile.sys.mjs:write:417","resource:///modules/sessionstore/SessionFile.sys.mjs:write:45","resource:///modules/sessionstore/SessionSaver.sys.mjs:_writeState:350","resource:///modules/sessionstore/SessionSaver.sys.mjs:_saveState:288","resource:///modules/sessionstore/SessionSaver.sys.mjs:run:156","resource:///modules/sessionstore/SessionSaver.sys.mjs:run:71","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_uninit:1055","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_onQuitApplication:2348","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_observe:1089"]}] Barrier: IOUtils: waiting for profileBeforeChange IO to complete
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"IOUtils Blocker (profile-before-change)","state":"(none)","filename":"/builds/worker/checkouts/gecko/dom/system/IOUtils.cpp","lineNumber":2215,"stack":"IOUtils::EventQueue::SetShutdownHooks"},{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filen1678437214047	Marionette	INFO	Stopped listening on port 61439
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written","state":{"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true},"filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":174,"stack":["resource://gre/modules/CrashMonitor.jsm:init:174","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]},{"name":"SessionFile: Finish writing Session Restore data","state":{"options":{"isFinalWrite":true,"performShutdownCleanup":true},"attempts":9,"successes":8,"failures":0},"filename":"resource:///modules/sessionstore/SessionFile.sys.mjs","lineNumber":417,"stack":["resource:///modules/sessionstore/SessionFile.sys.mjs:write:417","resource:///modules/sessionstore/SessionFile.sys.mjs:write:45","resource:///modules/sessionstore/SessionSaver.sys.mjs:_writeState:350","resource:///modules/sessionstore/SessionSaver.sys.mjs:_saveState:288","resource:///modules/sessionstore/SessionSaver.sys.mjs:run:156","resource:///modules/sessionstore/SessionSaver.sys.mjs:run:71","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_uninit:1055","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_onQuitApplication:2348","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_observe:1089"]}] Barrier: IOUtils: waiting for profileBeforeChange IO to complete
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"IOUtils Blocker (profile-before-change)","state":"(none)","filename":"/builds/worker/checkouts/gecko/dom/system/IOUtils.cpp","lineNumber":2215,"stack":"IOUtils::EventQueue::SetShutdownHooks"},{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":470,"stack":""}] Barrier: profile-before-change
+1678438032557	geckodriver	INFO	Listening on 127.0.0.1:61753
+1678438035914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61754" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile7Cc28M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678438040041	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678438040047	Marionette	INFO	Listening on port 61764
+Read port: 61764
+WebDriver BiDi listening on ws://127.0.0.1:61754
+1678438041943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile7Cc28M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61754/devtools/browser/47f5f0b9-137f-4f81-8620-56bb3de26f4f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demoblaze.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demoblaze.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demoblaze.com."
+1678439110902	Marionette	INFO	Stopped listening on port 61764
+Dynamically enable window occlusion 1
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":470,"stack":""}] Barrier: profile-before-change
+ listening on ws://127.0.0.1:61832
+1678438312635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileZhRMIu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61832/devtools/browser/644ed7db-348f-4e95-9b98-77c637324d5b
+1678439135088	Marionette	INFO	Stopped listening on port 61839
+Dynamically enable window occlusion 1
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":470,"stack":""}] Barrier: profile-before-change
+ttings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678438570066	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678438570071	Marionette	INFO	Listening on port 61942
+Read port: 61942
+Read port: 61942
+WebDriver BiDi listening on ws://127.0.0.1:61923
+1678438572171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileKAQ1B5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61923/devtools/browser/1c7304d6-a8d1-4da8-8afb-55d7c98620fd
+1678439111749	Marionette	INFO	Stopped listening on port 61942
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileDkUbqn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678438931671	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678438931677	Marionette	INFO	Listening on port 62070
+Read port: 62070
+WebDriver BiDi listening on ws://127.0.0.1:62063
+1678438933503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileDkUbqn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62063/devtools/browser/10a7e221-98ad-4e5f-a6aa-588a40582235
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+1678439105699	Marionette	INFO	Stopped listening on port 62070
+Dynamically enable window occlusion 1
+1678439321535	geckodriver	INFO	Listening on 127.0.0.1:62185
+1678439324673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62186" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilebMebwQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678439327115	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678439327120	Marionette	INFO	Listening on port 62195
+Read port: 62195
+WebDriver BiDi listening on ws://127.0.0.1:62186
+1678439327330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilebMebwQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62186/devtools/browser/d9c10856-dff4-4d40-b0a0-3a10685101cf
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+1678440067617	Marionette	INFO	Stopped listening on port 62195
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written","state":{"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true},"filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":174,"stack":["resource://gre/modules/CrashMonitor.jsm:init:174","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]},{"name":"SessionFile: Finish writing Session Restore data","state":{"options":{"isFinalWrite":true,"performShutdownCleanup":true},"attempts":6,"successes":5,"failures":0},"filename":"resource:///modules/sessionstore/SessionFile.sys.mjs","lineNumber":417,"stack":["resource:///modules/sessionstore/SessionFile.sys.mjs:write:417","resource:///modules/sessionstore/SessionFile.sys.mjs:write:45","resource:///modules/sessionstore/SessionSaver.sys.mjs:_writeState:350","resource:///modules/sessionstore/SessionSaver.sys.mjs:_saveState:288","resource:///modules/sessionstore/SessionSaver.sys.mjs:run:156","resource:///modules/sessionstore/SessionSaver.sys.mjs:run:71","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_uninit:1055","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_onQuitApplication:2348","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_observe:1089"]}] Barrier: IOUtils: waiting for profileBeforeChange IO to complete
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"IOUtils Blocker (profile-before-change)","state":"(none)","filename":"/builds/worker/checkouts/gecko/dom/system/IOUtils.cpp","lineNumber":2215,"stack":"IOUtils::EventQueue::SetShutdownHooks"},{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":470,"stack":""}] Barrier: profile-before-change
+ writing Session Restore data","state":{"options":{"isFinalWrite":true,"performShutdownCleanup":true},"attempts":6,"successes":5,"failures":0},"filename":"resource:///modules/sessionstore/SessionFile.sys.mjs","lineNumber":417,"stack":["resource:///modules/sessionstore/SessionFile.sys.mjs:write:417","resource:///modules/sessionstore/SessionFile.sys.mjs:write:45","resource:///modules/sessionstore/SessionSaver.sys.mjs:_writeState:350","resource:///modules/sessionstore/SessionSaver.sys.mjs:_saveState:288","resource:///modules/sessionstore/SessionSaver.sys.mjs:run:156","resource:///modules/sessionstore/SessionSaver.sys.mjs:run:71","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_uninit:1055","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_onQuitApplication:2348","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_observe:1089"]}] Barrier: IOUtils: waiting for profileBeforeChange IO to complete
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"IOUtils Blocker (profile-before-change)","state":"(none)","filename":"/builds/worker/checkouts/gecko/dom/system/IOUtils.cpp","lineNumber":2215,"stack":"IOUtils::EventQueue::SetShutdownHooks"},{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":470,"stack":""}] Barrier: profile-before-change
