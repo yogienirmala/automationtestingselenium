@@ -21,7 +21,7 @@ class DemoblazeTest(unittest.TestCase):
          
         # get driver
         driver = self.driver
-        # get url demoblaze using selenium
+        # get url demoblaze
         driver.get("https://demoblaze.com")
  
         # assertion to confirm if title has STORE keyword in it
