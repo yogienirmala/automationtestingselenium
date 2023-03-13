@@ -2027,3 +2027,6 @@ DevTools listening on ws://127.0.0.1:61158/devtools/browser/076a0a1c-106d-4117-b
 console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1678683386522	Marionette	INFO	Stopped listening on port 61165
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
